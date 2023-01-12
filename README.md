@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <code> Hello, welcome to my profile! My name is Helton and I'm a Front-end Developer Student.</strong> </code>
+ <code> Hello, welcome to my profile! My name is Helton and I'm a Front-end Developer.</strong> </code>
 </p>
 
 <h3 align="center"> 🛠️ Main tools</h3>
