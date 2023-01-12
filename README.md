@@ -29,19 +29,7 @@
  <a href="https://www.linkedin.com/in/heltonp21" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<hr>
 
-<p align="center">
-<a href="https://github.com/heltonp21/heltonp21"> 
-<img src="https://github-readme-stats.vercel.app/api?username=heltonp21&show_icons=true&theme=radical" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/heltonp21/heltonp21"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heltonp21&layout=compact&theme=radical" />
-</a>
-</p>
 
 
 <!-- [![Helton GitHub stats](https://github-readme-stats.vercel.app/api?username=heltonp21&show_icons=true&theme=radical)](https://https://github.com/heltonp21/heltonp21) -->
